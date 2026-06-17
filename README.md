@@ -1,2 +1,2 @@
 ﻿# Spotify-demo
-the create small Spotify-dem
+The create small Spotify-demo.
